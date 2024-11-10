@@ -73,8 +73,6 @@ to retrieve secrets from AWS Secret manager.
 
 # EKS Components
 
-![EKS](./eks.png)
-
 ## Platform components
 
 Platform components provide foundational cluster-level functionalities and capabilities to support services deployed by product developers.
